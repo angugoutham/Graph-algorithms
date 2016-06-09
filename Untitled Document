@@ -1,0 +1,5 @@
+Write a program that reads in a graph description and answers the following
+questions:
+(a)  What is the size of the largest connected component of the graph?
+(b)  What is the diameter of the largest connected component, and which
+two vertices are the furthest apart?
